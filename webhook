@@ -1,1 +1,3 @@
-
+here we are creating webhook in git.
+goto jenkins pipeline job and checkon "GitHub hook trigger for GITScm polling"
+if any changes made in code in git files it will automatically triggerd on jenkins pipeline jobs.
